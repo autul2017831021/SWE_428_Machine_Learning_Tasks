@@ -1,2 +1,3 @@
-# SWE_428_Machine_Learning_Tasks
-This repo contains all the ML(SWE 428) assignments given by my course teacher.
+<p>SWE - 428 Machine Learning Assignments</p>
+<h2>Name : Moshiur Rahman Autul</h2>
+<h2>Reg  : 2017831021</h2>
